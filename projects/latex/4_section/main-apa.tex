@@ -1,0 +1,45 @@
+\documentclass{article}
+
+\usepackage{hyperref}
+\usepackage[style=apa, maxcitenames=2]{biblatex}
+\addbibresource{ref.bib}
+
+\title{My LaTex}
+\author{Akraradet Sinsamersuk\thanks{Brainlab}}
+\date{26 Febuary 2023}
+
+\begin{document}
+\maketitle
+\newpage
+
+\tableofcontents
+\newpage
+
+
+\include{methodology.tex}
+\include{introduction.tex}
+
+
+\section{Citing Style}
+
+This is how to cite people
+
+\subsection{Subject form}
+
+\textcite{chaky} says that the master's students need to publish 1 paper before they graduate.
+
+\textcite{2author} sleep.
+
+\textcite{3author} eats.
+
+\subsection{Indirect form}
+
+Master students need to publish 1 paper to graduate \parencite[18-20]{chaky}
+
+The fact that many papers say \parencite{chaky,2author,3author}
+
+\cite{vaswani2017attention}
+
+\printbibliography %Prints bibliography
+
+\end{document}

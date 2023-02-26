@@ -1,0 +1,363 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{2author}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e30bde1d7bc5ae3cb5e786865a16bacc}{%
+           family={Akraradet},
+           familyi={A\bibinitperiod},
+           given={Sinsamersuk},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11fbc19c4588c7b12b629ea2d64fb754}{%
+           family={Mehul},
+           familyi={M\bibinitperiod},
+           given={Mehul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{fullhash}{168559d7281b513b816e0fd775c69d51}
+      \strng{bibnamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authorbibnamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authornamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authorfullhash}{168559d7281b513b816e0fd775c69d51}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{How to write paper}
+      \field{title}{BCILab}
+      \field{volume}{1}
+      \field{year}{2023}
+    \endentry
+    \entry{3author}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7f5ce118a6ecb3efe02705b85364a074}{%
+           family={Amp},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dc552a1ad682b1858654d5474d0e549}{%
+           family={Beau},
+           familyi={B\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1a3f3ed90bb58efb2994351f955668}{%
+           family={Cat},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9b87735afa9701e02faa455dfee609d}
+      \strng{fullhash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{bibnamehash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{authorbibnamehash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{authornamehash}{e9b87735afa9701e02faa455dfee609d}
+      \strng{authorfullhash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The PhD students}
+      \field{title}{Brainlab}
+      \field{volume}{1}
+      \field{year}{2022}
+    \endentry
+    \entry{chaky}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4db8050bc1353cee52ca6048c0551440}{%
+           family={Chaklam},
+           familyi={C\bibinitperiod},
+           given={Silap},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{fullhash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{bibnamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authorbibnamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authornamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authorfullhash}{4db8050bc1353cee52ca6048c0551440}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The way to sucdess}
+      \field{title}{AIT Brainlab}
+      \field{volume}{2}
+      \field{year}{2022}
+    \endentry
+    \entry{vaswani2017attention}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={{Ł}ukasz},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorbibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Attention is all you need}
+      \field{volume}{30}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{2author}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e30bde1d7bc5ae3cb5e786865a16bacc}{%
+           family={Akraradet},
+           familyi={A\bibinitperiod},
+           given={Sinsamersuk},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11fbc19c4588c7b12b629ea2d64fb754}{%
+           family={Mehul},
+           familyi={M\bibinitperiod},
+           given={Mehul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{fullhash}{168559d7281b513b816e0fd775c69d51}
+      \strng{bibnamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authorbibnamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authornamehash}{168559d7281b513b816e0fd775c69d51}
+      \strng{authorfullhash}{168559d7281b513b816e0fd775c69d51}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{How to write paper}
+      \field{title}{BCILab}
+      \field{volume}{1}
+      \field{year}{2023}
+    \endentry
+    \entry{3author}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7f5ce118a6ecb3efe02705b85364a074}{%
+           family={Amp},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dc552a1ad682b1858654d5474d0e549}{%
+           family={Beau},
+           familyi={B\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1a3f3ed90bb58efb2994351f955668}{%
+           family={Cat},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9b87735afa9701e02faa455dfee609d}
+      \strng{fullhash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{bibnamehash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{authorbibnamehash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \strng{authornamehash}{e9b87735afa9701e02faa455dfee609d}
+      \strng{authorfullhash}{38c6ded1ee006383dcc92cf863a3ee3a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The PhD students}
+      \field{title}{Brainlab}
+      \field{volume}{1}
+      \field{year}{2022}
+    \endentry
+    \entry{chaky}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4db8050bc1353cee52ca6048c0551440}{%
+           family={Chaklam},
+           familyi={C\bibinitperiod},
+           given={Silap},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{fullhash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{bibnamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authorbibnamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authornamehash}{4db8050bc1353cee52ca6048c0551440}
+      \strng{authorfullhash}{4db8050bc1353cee52ca6048c0551440}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The way to sucdess}
+      \field{title}{AIT Brainlab}
+      \field{volume}{2}
+      \field{year}{2022}
+    \endentry
+    \entry{vaswani2017attention}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={{Ł}ukasz},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorbibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Attention is all you need}
+      \field{volume}{30}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

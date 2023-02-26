@@ -1,0 +1,8 @@
+/.vscode-server
+.vscode
+*.aux
+*.log
+*.out
+/pytorch/dataset/*
+/pytorch/weight/*
+!.keeps
